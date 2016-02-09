@@ -1,5 +1,5 @@
 # jekyll config
-baseurl: /
+baseurl: /php-fig
 safe:        true
 lsi:         false
 highlighter: pygments
