@@ -1,4 +1,5 @@
 # jekyll config
+baseurl: /
 safe:        true
 lsi:         false
 highlighter: pygments
